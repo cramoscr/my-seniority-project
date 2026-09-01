@@ -64,6 +64,16 @@ assessment.
 
 > **Complexity inside. Clarity outside.**
 
+### Executive Presence & Business Fluency
+
+- [ ] Develop the ability to move naturally and confidently in senior executive and international professional environments.
+- [ ] Strengthen business fluency: understand what matters to executives, owners, and senior decision-makers.
+- [ ] Improve awareness of executive social and professional codes without imitating status or adopting an artificial persona.
+- [ ] Expand cultural and international exposure so conversations across different professional and social contexts feel natural.
+- [ ] Practice adapting communication across technical, managerial, executive, and client audiences.
+- [ ] Build comfort discussing business, industry, economics, technology trends, and organizational impact beyond purely technical topics.
+- [ ] Treat this as an exposure-and-practice objective, not as another course or certification target.
+
 ### Business Impact
 
 - [ ] Connect engineering decisions with operational outcomes.
