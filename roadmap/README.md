@@ -8,6 +8,8 @@ operate as a high-impact senior engineer.
 The roadmap is iterative. New evidence may change priorities, reveal new gaps,
 or demonstrate that some capabilities are already sufficiently strong.
 
+For the chronological evolution of the project, see [`progress-log.md`](progress-log.md).
+
 ---
 
 ## [ ] Phase 1 — Assessment & Direction
@@ -15,41 +17,13 @@ or demonstrate that some capabilities are already sufficiently strong.
 **Goal:** Understand the current professional baseline and determine where
 development effort can produce the greatest impact.
 
-### Current Assessment Track
+### Assessment Track
 
-- [x] **Cognitive Assessment v1.0** — completed across three sessions.
-  - Logical, abstract, and quantitative reasoning
-  - Verbal reasoning and working memory
-  - Rule acquisition and formal inference
-  - Applied problem solving and decision-making under ambiguity
-  - Senior-level engineering judgment
-- [ ] **Behavioral Profile** — next assessment activity.
-- [ ] **Technical Assessment** — planned after behavioral evaluation.
+- [x] **Cognitive Assessment v1.0**
+- [ ] **Behavioral Profile** — next assessment activity
+- [ ] **Technical Assessment** — planned after behavioral evaluation
 
-> Detailed assessment results are maintained in the private seniority-development workspace. The public roadmap records only progress, development direction, and externally relevant conclusions.
-
-### Evidence-Based Direction Emerging from Cognitive Assessment
-
-Current evidence does **not** indicate broad cognitive capacity as a primary barrier to higher-impact technical roles.
-
-Strong signals were observed in:
-
-- Systems reasoning
-- Abstract and applied problem solving
-- Working memory
-- Technical diagnosis
-- Risk reasoning
-- Business/technical trade-off judgment
-- Senior-level engineering judgment
-
-Development areas identified for later deliberate practice include:
-
-- Formal logic precision: necessary/sufficient conditions, converse errors, and contraposition
-- Numerical precision in percentage-change problems
-- Decision-making with incomplete-but-sufficient evidence
-- Avoiding unnecessary certainty-seeking before making a defensible decision
-
-The more important working hypothesis is therefore shifting toward **demonstrating, communicating, and positioning existing senior capability**, rather than accumulating broad additional knowledge without a clear evidence or market outcome.
+Detailed assessment results are maintained in the private seniority-development workspace.
 
 ### Checklist
 
