@@ -75,6 +75,23 @@ assessment.
 - [ ] Improve stakeholder communication.
 - [ ] Improve communication in group and public-speaking situations.
 
+#### Professional English Listening
+
+**Objective:** Improve real-time comprehension of natural spoken English under realistic international professional conditions. This is refinement of an already functional professional skill, not a general English-learning objective.
+
+- [ ] Establish a practical listening baseline using professional and technical material.
+- [ ] Practice approximately **20 minutes per day for 8–12 weeks**.
+- [ ] Use short segments from technical discussions, interviews, architecture talks, meetings, and other natural professional conversations.
+- [ ] First listen without subtitles or transcript and identify what was understood.
+- [ ] Listen again with English subtitles/transcript to identify missed phrases and connected speech.
+- [ ] Replay difficult phrases without subtitles until they can be decoded naturally.
+- [ ] Occasionally repeat difficult phrases aloud to internalize pronunciation reductions and connected speech.
+- [ ] Include varied accents and imperfect real-world audio conditions.
+- [ ] Practice professional recovery techniques when something is missed: request the specific phrase rather than the whole statement, and confirm important decisions by paraphrasing them.
+- [ ] Measure progress by reduced need for repetition and increased comprehension during realistic professional conversations—not by achieving perfect comprehension of movies.
+
+**Target:** Participate comfortably in fast-paced international technical and business discussions, including under pressure, while confidently clarifying the occasional missed phrase when necessary.
+
 > **Complexity inside. Clarity outside.**
 
 ### Executive Presence & Business Fluency
