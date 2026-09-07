@@ -313,3 +313,7 @@ Additional authoritative/public sources for Google, Microsoft, Amazon, Meta, and
 ---
 
 **Next step:** Build the cross-framework comparison matrix and identify the smallest set of competencies that explains Senior → Staff → Principal progression across multiple independent methodologies.
+
+---
+
+> **AI assistance:** This document was developed with the assistance of ChatGPT by OpenAI. The final structure, interpretation, and use of the content remain the responsibility of the repository owner.
